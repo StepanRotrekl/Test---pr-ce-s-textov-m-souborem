@@ -1,0 +1,4 @@
+Počet slov: 110
+Průměrná délka: 5.281818181818182
+Nejdelší slovo: klávesnice
+Nejkratší slovo: les
